@@ -2,6 +2,8 @@
 
 A modern, responsive marketing website for CodeForce - an AI-powered development platform. This website showcases the product's features, pricing, and provides a contact form for potential customers.
 
+*CodeForce AI project created for session 8131f400fd194e9f9148fee5a4db2302*
+
 ## Features
 
 - **Responsive Design**: Fully responsive layout that works on all devices
